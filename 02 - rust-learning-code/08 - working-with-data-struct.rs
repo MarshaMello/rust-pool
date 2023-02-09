@@ -11,3 +11,4 @@ let my_box = box_size {
 
 let tall = my_box.box_size;
 println!("the box is {:?} units tall", tall);
+
