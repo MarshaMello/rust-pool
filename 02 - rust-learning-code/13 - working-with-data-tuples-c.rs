@@ -7,7 +7,7 @@ fn main() {
 
     if y > 5 {
         println!(">5");
-    }else y < 5 {
+    }else if y < 5 {
         println!("<5");
     }else {
         println!("=5")
