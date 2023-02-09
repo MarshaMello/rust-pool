@@ -10,6 +10,6 @@ fn ways(go : Direction) {
         Direction :: Up => "up",
         Direction :: Down => "down",
         Direction :: Left => "left",
-        Direction :: Right => "right"
+        Direction :: Right => "right",
     }
 }
