@@ -16,4 +16,5 @@ fn main() {
         pages = 5,
         rating = 9,
     };
+    page_count(book);
 }
