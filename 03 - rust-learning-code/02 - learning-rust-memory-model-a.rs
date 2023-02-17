@@ -17,4 +17,5 @@ fn main() {
         rating = 9,
     };
     page_count(book);
+    book_rating(book);
 }
